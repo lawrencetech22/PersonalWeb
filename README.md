@@ -1,2 +1,3 @@
 # PersonalWeb
-This is just a transfer of this repo from my old account.
+
+This Git Repo is for my personal Web Page www.lawrencetech.us.to
